@@ -32,6 +32,10 @@
 
 ## Link
 
+| Link | GitHub |
+| ---- | ------ |
+| [AnduinOS Adjustment](https://samwhelp.github.io/anduinos-adjustment/) | [GitHub](https://github.com/samwhelp/anduinos-adjustment) |
+
 
 
 
